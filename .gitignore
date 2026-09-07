@@ -17,6 +17,9 @@ out
 build
 .gradle
 
+#png
+*.png
+
 # other
 eclipse
 run
